@@ -19,6 +19,7 @@ const Question = () => {
             flexDirection: 'column',
             alignItems: 'center'
         }}>
+            <header>jakas zmiana</header>
             <InputGroup onChange={(event: any) => {
                 console.log(event.target.value);
             }}
