@@ -47,7 +47,8 @@ const Question = () => {
             fontSize: 25,
         },
         card: {
-            backgroundColor: "whitesmoke"
+            backgroundColor: "whitesmoke",
+            border:" solid red 2px",
 
         },
         root: {
